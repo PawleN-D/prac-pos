@@ -1,0 +1,23 @@
+header,
+section,
+aside,
+footer {
+    text-align: center;
+    background-color: #bada55;
+    padding: 20px;
+    margin: 0 2% 14px 1%;
+}
+
+section {
+    float: left;
+    width: 42%
+}
+
+aside {
+    float: right;
+    width: 46%;
+}
+
+footer {
+    clear: both;
+}
